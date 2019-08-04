@@ -1,0 +1,23 @@
+{
+  "name": "foxintelligence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "André Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "dinoql": "^0.6.0",
+    "himalaya": "^1.1.0"
+  },
+  "engines": {
+    "node": "<=8.9.3"
+  }
+}
